@@ -1,6 +1,6 @@
 # GoLend
 
-This is the repository for standalone GoLend Application
+This is the repository for standalone GoLend pplication
 
 ## Setup
 
