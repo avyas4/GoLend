@@ -153,10 +153,6 @@
       "web.jsx",
       "jsx",
       "node"
-    ],
-    "watchPlugins": [
-      "/home/hasher/app/apply-ui/node_modules/jest-watch-typeahead/filename.js",
-      "/home/hasher/app/apply-ui/node_modules/jest-watch-typeahead/testname.js"
     ]
   },
   "babel": {
