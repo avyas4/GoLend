@@ -7,11 +7,7 @@
 .vscode
 
 # SonarQube
-.scannerwork/
-
-# from https://github.com/github/gitignore/blob/master/Terraform.gitignore
-# Local .terraform directories
-**/.terraform/*
+.scannerwork
 
 # .tfstate files
 *.tfstate
@@ -19,9 +15,6 @@
 
 # testing
 /coverage
-
-# production
-/build
 
 # misc
 .DS_Store
